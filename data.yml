@@ -6,7 +6,9 @@
   - name: create username
     user: "{{username}}"
     state: present
-    
+  - name: install package
+    package: ['wget', 'unzip']
+    state: latest
   - name:
     debug:
       msg: "{{password}}"
