@@ -1,0 +1,12 @@
+- hosts: databases
+  var:
+    password: DevOps@2020
+    username: mylandmark
+  tasks:
+  - name: create username
+    user: "{{username}}"
+    state: present
+    
+  - name:
+    debug:
+      msg: "{{password}}"
