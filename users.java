@@ -1,4 +1,4 @@
-#List
+#List of DevOps Engineers
 mofor
 simon
 sylvie
@@ -7,3 +7,5 @@ Evolie
 Landmark
 Jessica
 Rudolf
+Chuka
+Ken
