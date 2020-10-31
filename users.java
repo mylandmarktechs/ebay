@@ -7,3 +7,5 @@ Evolie
 Landmark
 Jessica
 Rudolf
+Chuka
+Ken
