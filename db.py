@@ -1,6 +1,6 @@
 # List
 mongo
-mysql
+mysql-master
 mariadb
 aws-rds
 ebs-master
