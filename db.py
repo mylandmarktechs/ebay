@@ -1,5 +1,5 @@
 # List
-mongo
+mongo-dev
 mysql
 mariadb
 aws-rds
