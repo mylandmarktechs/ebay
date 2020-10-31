@@ -2,3 +2,4 @@
 mongo
 mysql
 mariadb
+aws-rds
